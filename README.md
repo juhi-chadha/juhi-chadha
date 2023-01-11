@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juhi-chadha
 - 👀 I’m interested in Learning & Evolving
-- 🌱 I’m currently learning Python
+- 🌱 I’m Data Science enthusiast
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me at juhichadha28@gmail.com
 
